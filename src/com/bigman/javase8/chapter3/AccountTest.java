@@ -25,7 +25,7 @@ public class AccountTest {
 
         myAccount.setName(accName);
 
-        System.out.printf("New account name %s%n%n", myAccount.getName());
+        System.out.printf("New account base on myAccount name %s%n%n", myAccount.getName());
 
 
     }
